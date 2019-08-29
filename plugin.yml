@@ -1,0 +1,9 @@
+name: HazardBase
+main: io.github.edtechl.Main
+version: 1.0
+authors: [edtechl, blackknight11]
+commands:
+  hub:
+    description: Teleport to Hub!
+  heal:
+    description: Heal.

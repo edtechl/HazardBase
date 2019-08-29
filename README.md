@@ -1,0 +1,2 @@
+# HazardBase
+Minecraft server plugin
